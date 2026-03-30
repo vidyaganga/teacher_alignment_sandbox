@@ -3,8 +3,8 @@
 Mechanistic interpretability experiments asking whether a "Teacher Axis" exists in LLM activation space, and whether it's the same direction as 
 the RLHF-induced Assistant Axis or a different one.
 
-This started as a side project after I couldn't get a Socratic tutoring app ([socratOS](link)) to stop giving away homework answers. Ended up 
-running activation steering experiments on Gemma 2B and Mistral 7B on free Kaggle compute.
+This started as a side project after I couldn't get a Socratic tutoring app ([socratOS](https://github.com/vidyaganga/SocratOS)) to stop giving 
+away homework answers. Ended up running activation steering experiments on Gemma 2B and Mistral 7B on free Kaggle compute.
 
 ---
 
