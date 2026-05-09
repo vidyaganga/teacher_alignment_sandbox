@@ -42,5 +42,5 @@ Models loaded from HuggingFace: `google/gemma-2-2b`, `google/gemma-2-2b-it`, `mi
 
 ## About
 
-I'm a quant dev, not a researcher. I wrote this up on LessWrong because I wanted feedback from people who know what they're talking about. 
+I'm a quant dev, not a researcher. I wrote this up because I wanted feedback from people who know what they're talking about. 
 If something here is broken or interesting, issues and comments are open.
